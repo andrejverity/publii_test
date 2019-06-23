@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://andrejverity.github.io/publii_test/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://andrejverity.github.io/publii_test/</loc>
+</url>
+<url>
+<loc>https://andrejverity.github.io/publii_test/hello-world-post.html</loc>
+<lastmod>2019-06-22T20:59:56-04:00</lastmod>
+<image:image>
+<image:loc>https://andrejverity.github.io/publii_test/media/posts/1/Cybersecurity_and_Humanitarian_Organizations_-_On_a_Collision_Course_-_August_2018.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

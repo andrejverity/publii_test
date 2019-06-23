@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "publii_test",
+    "description": "",
+    "home_page_url": "https://andrejverity.github.io/publii_test",
+    "feed_url": "https://andrejverity.github.io/publii_test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Andrej Verity"
+    },
+    "items": [
+        {
+            "id": "https://andrejverity.github.io/publii_test/hello-world-post.html",
+            "url": "https://andrejverity.github.io/publii_test/hello-world-post.html",
+            "title": "Hello world post",
+            "summary": "<p>This is the content area.</p>\n<p>What if there are a lot of <strong>lines</strong>?</p>\n",
+            "content_html": "<p>This is the content area.</p>\n<p>What if there are a lot of <strong>lines</strong>?</p>\n\n<p>Where is this found? <a href=\"www.yahoo.com\" target=\"_blank\" rel=\"noopener noreferrer\">Link to a site</a><a href=\"www.yahoo.com\" target=\"_blank\" rel=\"noopener noreferrer\"></a>?</p>\n<p><a href=\"google.com\"><img class=\"post__image\" src=\"https://andrejverity.github.io/publii_test/media/posts/1/Cybersecurity_and_Humanitarian_Organizations_-_On_a_Collision_Course_-_August_2018.png\" alt=\"\" width=\"257\" height=\"334\"></a></p>",
+            "author": {
+                "name": "Andrej Verity"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-22T20:59:56-04:00",
+            "date_modified": "2019-06-22T20:59:56-04:00"
+        }
+    ]
+}
